@@ -1,6 +1,7 @@
 # Data-management
 Data Management project at University of Milano Bicocca-Data Science.
-Il lavoro `e consistito nel capire se i tweet pubblicati riferiti ad
+
+Il lavoro è consistito nel capire se i tweet pubblicati riferiti ad
 una particolare azienda influenzano l’andamento in borsa dell’azienda.
 Per rispondere a questa domanda ci siamo interessati a tre diverse
 aziende farmaceutiche che hanno pordotto vacini contro il COVID19:
@@ -12,7 +13,7 @@ in borsa, includendo anche ulteriori parametri quali la sentiment e gli
 engagement dei tweet. Le infografiche non ci hanno consentito di dare
 un giudizio chiaro per quanto riguarda un possibile nesso tra i due
 andamenti. Il software utilizzato per la parte di integrazione dei dati
-`e Python Notebook. Per le visualizzazioni grafiche `e stato utilizzato
+è Python Notebook. Per le visualizzazioni grafiche è stato utilizzato
 Tableau.
 ------------------------------------------------------------------------
 The work consisted in understanding whether the published tweets referring to
